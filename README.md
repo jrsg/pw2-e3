@@ -1,6 +1,6 @@
 # Ejercicio 5
 
-Crea un nuevo documento HTML con un formulario suponiendo que servirá para registrar nuevos usuarios de una revista digital. El formulario debe contener lo siguiente:
+Crea un nuevo documento HTML con un formulario que permita registrar nuevos usuarios de una revista digital. El formulario debe contener lo siguiente:
 
 * 2 elementos input de tipo text, uno para capturar el nombre y el otro correo electrónico del usuario
 * 1 elemento input de tipo password para la contraseña de acceso al portal
