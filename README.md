@@ -23,3 +23,5 @@ Crea un nuevo documento HTML con un formulario suponiendo que servirá para regi
 * Agrega un texto de ayuda (placeholder) para los campos Nombre y E-mail
 * Los valores para los elementos checkbox, radio button deben ser los mismos que las etiquetas.
 * Los valores para los elementos option del elemento select deben ser los mismos a su correspondiente leyenda.
+### Resultado final
+![](formulario_de_registro.jpg?raw=true, "Resultado final")
