@@ -13,7 +13,7 @@ Crea un nuevo documento HTML con un formulario suponiendo que servirá para regi
   * Desde el portal
   * Enviar a mi e-mail
 * 1 elemento textarea para registrar alguna observación que tenga el usuario. Se sugiere sea de 30 columnas de ancho por 5 renglones de alto.
-* 1 elemento input de tipo submit con la leyenda "Registrarse"
+* 1 elemento input de tipo submit con la leyenda "Enviar"
 * Elementos fieldset y legend para crear 2 apartados, uno con el texto "Datos personales", el otro con el texto "Servicio de noticias" (ver imagen al final).
 ## Consideraciones técnicas
 * El formulario debe enviar los datos utilizando el método GET, a la URL http://servicios.ver.ucc.mx/procesar.php
@@ -23,4 +23,3 @@ Crea un nuevo documento HTML con un formulario suponiendo que servirá para regi
 * Agrega un texto de ayuda (placeholder) para los campos Nombre y E-mail
 * Los valores para los elementos checkbox, radio button deben ser los mismos que las etiquetas.
 * Los valores para los elementos option del elemento select deben ser los mismos a su correspondiente leyenda.
-
