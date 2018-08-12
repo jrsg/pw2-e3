@@ -24,4 +24,4 @@ Crea un nuevo documento HTML con un formulario que permita registrar nuevos usua
 * Los valores para los elementos checkbox, radio button deben ser los mismos que las etiquetas.
 * Los valores para los elementos option del elemento select deben ser los mismos a su correspondiente leyenda.
 ### Resultado final
-![](formulario_de_registro.jpg, "Resultado final")
+![](formulario_de_registro.jpg?raw=true, "Resultado final")
