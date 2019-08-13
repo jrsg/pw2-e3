@@ -1,4 +1,4 @@
-# Ejercicio 5
+# Instrucciones
 
 Crea un nuevo documento HTML con un formulario que permita registrar nuevos usuarios de una revista digital. El formulario debe contener lo siguiente:
 
